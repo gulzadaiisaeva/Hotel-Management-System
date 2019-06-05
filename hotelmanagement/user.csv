@@ -1,0 +1,5 @@
+name,surname,logName,password,phoneNum,roomNo,status,roomtype,startDay,month,year,endDay,month,year
+Gulzada,Iisaeva,gulzada,12345,05521425636,0,available,null,0,0,0,0,0,0,0
+Taalai,Almasova,taalai,12345,05521485478,0,reserved,standard 200$,1200,3,3,2018,5,3,2018
+Ahmet,Gulbahce,ahmet,12345,05514567812,0,available,null,0,0,0,0,0,0,0
+Atakan,Ipekci,ipekci,12345,05521324565,0,available,null,0,0,0,0,0,0,0
